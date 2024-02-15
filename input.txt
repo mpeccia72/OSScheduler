@@ -1,0 +1,9 @@
+INTERACTIVE 12000 // new process
+CPU 100
+TTY 5000
+CPU 100
+DISK 10
+CPU 20
+REAL-TIME 12000 // new process
+DEADLINE 13000 // absolute time
+CPU 30
